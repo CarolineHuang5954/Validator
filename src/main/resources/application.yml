@@ -1,0 +1,6 @@
+spring:
+  messages:
+    basename: validationErrMsg
+    encoding: utf-8
+server:
+  port: 7070
